@@ -1,2 +1,2 @@
 # Hello-World
-Dipslay 'Hello World'
+Dipslays 'Hello World'
